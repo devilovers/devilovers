@@ -70,10 +70,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=ff45d4&center=true&width=500&lines=System+says:;User+Sabyelle+is+still+coding;somewhere+in+another+universe...+💻✨" alt="Typing Pink Glow" />
 </p>
-
-<p align="center">
-  <img src="https://media.tenor.com/SZ7rX5xE-nIAAAAC/pink-aesthetic.gif" 
-       alt="Pink Neon Glow" 
-       width="300" 
-       style="border-radius:12px; box-shadow:0 0 20px #ff45d4;" />
-</p>
