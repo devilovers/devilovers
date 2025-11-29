@@ -37,36 +37,9 @@
 </p>
 
 ---
-## ⭐ Featured Projects  
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/USERNAME/PROJECT1">
-        <img src="https://via.placeholder.com/400x200/ff45d4/ffffff?text=Project+1"
-             width="100%" 
-             style="border-radius:12px; box-shadow:0 0 20px #ff45d4;" />
-        <br /><br />
-        <b style="color:#ff45d4;">💗 Project Title 1</b>
-      </a>
-      <p>Deskripsi pendek proyek kamu</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/devilovers/devilovers">
-        <img src="https://via.placeholder.com/400x200/ff45d4/ffffff?text=Project+2"
-             width="100%" 
-             style="border-radius:12px; box-shadow:0 0 20px #ff45d4;" />
-        <br /><br />
-        <b style="color:#ff45d4;">💗 Project Title 2</b>
-      </a>
-      <p>Deskripsi pendek proyek kamu</p>
-    </td>
-  </tr>
-</table>
-
 ## 🎧 What I'm Listening To  
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/playlist/5kjmhHvKyCS2WHKl2pAc5G" target="_blank">
     <img 
       src="https://img.shields.io/badge/Spotify-Now%20Playing-ff45d4?style=for-the-badge&logo=spotify&logoColor=white" 
@@ -76,3 +49,31 @@
 </div>
 
 ---
+## 💌 Let's Connect !
+
+<p align="left">
+  <a href="https://instagram.com/USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff45d4?style=for-the-badge&logo=instagram&logoColor=white"
+    style="border-radius:12px; box-shadow:0 0 15px #ff45d4;" />
+  </a>
+   <a href="https://discord.com/users/USERIDMU" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-ff45d4?style=for-the-badge&logo=discord&logoColor=white"
+    style="border-radius:12px; box-shadow:0 0 15px #ff45d4;" />
+  </a>
+  <a href="mailto:EMAILMU">
+    <img src="https://img.shields.io/badge/Email-ff45d4?style=for-the-badge&logo=gmail&logoColor=white"
+    style="border-radius:12px; box-shadow:0 0 15px #ff45d4;" />
+  </a>
+  
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=ff45d4&center=true&width=500&lines=System+says:;User+Sabyelle+is+still+coding;somewhere+in+another+universe...+💻✨" alt="Typing Pink Glow" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/SZ7rX5xE-nIAAAAC/pink-aesthetic.gif" 
+       alt="Pink Neon Glow" 
+       width="300" 
+       style="border-radius:12px; box-shadow:0 0 20px #ff45d4;" />
+</p>
