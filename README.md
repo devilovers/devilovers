@@ -69,4 +69,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=ff45d4&center=true&width=500&lines=System+says:;User+Sabyelle+is+still+coding;somewhere+in+another+universe...+💻✨" alt="Typing Pink Glow" />
+  
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 </p>
