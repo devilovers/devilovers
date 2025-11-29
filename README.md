@@ -60,8 +60,8 @@
     <img src="https://img.shields.io/badge/Discord-ff45d4?style=for-the-badge&logo=discord&logoColor=white"
     style="border-radius:12px; box-shadow:0 0 15px #ff45d4;" />
   </a>
-  <a href="mailto:EMAILMU">
-    <img src="https://img.shields.io/badge/nrislmsbl@gmail.com-ff45d4?style=for-the-badge&logo=gmail&logoColor=white"
+  <a href="mailto:nrislmsbl@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-ff45d4?style=for-the-badge&logo=gmail&logoColor=white"
     style="border-radius:12px; box-shadow:0 0 15px #ff45d4;" />
   </a>
   
