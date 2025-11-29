@@ -37,6 +37,32 @@
 </p>
 
 ---
+## ⭐ Featured Projects  
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/USERNAME/PROJECT1">
+        <img src="https://via.placeholder.com/400x200/ff45d4/ffffff?text=Project+1"
+             width="100%" 
+             style="border-radius:12px; box-shadow:0 0 20px #ff45d4;" />
+        <br /><br />
+        <b style="color:#ff45d4;">💗 Project Title 1</b>
+      </a>
+      <p>Deskripsi pendek proyek kamu</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/devilovers/devilovers">
+        <img src="https://via.placeholder.com/400x200/ff45d4/ffffff?text=Project+2"
+             width="100%" 
+             style="border-radius:12px; box-shadow:0 0 20px #ff45d4;" />
+        <br /><br />
+        <b style="color:#ff45d4;">💗 Project Title 2</b>
+      </a>
+      <p>Deskripsi pendek proyek kamu</p>
+    </td>
+  </tr>
+</table>
 
 ## 🎧 What I'm Listening To  
 
