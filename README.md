@@ -18,51 +18,35 @@
   
 ---
 
-## 👑 Tech Stack (my current playground)  
-
-### 👾 Tech I Play With
+## 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html&theme=light&color=ff45d4&background=ffe3f8" />
-  <img src="https://skillicons.dev/icons?i=css&theme=light&color=ff45d4&background=ffe3f8" />
-  <img src="https://skillicons.dev/icons?i=js&theme=light&color=ff45d4&background=ffe3f8" />
-  <img src="https://skillicons.dev/icons?i=php&theme=light&color=ff45d4&background=ffe3f8" />
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=light&color=ff45d4&background=ffe3f8" />
+<img src="https://img.shields.io/badge/HTML-ff45d4?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-ff45d4?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-ff45d4?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-ff45d4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-ff45d4?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-ff45d4?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-ff45d4?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-ff45d4?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-ff45d4?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-ff45d4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-ff45d4?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache-ff45d4?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Laragon-ff45d4?style=for-the-badge&logo=laragon&logoColor=white" />
+<img src="https://img.shields.io/badge/Delphi-ff45d4?style=for-the-badge&logo=delphi&logoColor=white" />
 </p>
-
-### 🎀 Design & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma&theme=light&color=ff45d4&background=ffe3f8" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light&color=ff45d4&background=ffe3f8" />
-  <img src="https://skillicons.dev/icons?i=laragon&theme=light&color=ff45d4&background=ffe3f8" />
-</p>
-
----
-
-## 🌸 What I Do  
-- Design cute but killer UI  
-- Build things that glow ✨  
-- Mix beauty + tech like it’s magic  
-- Craft websites with dangerous precision  
-
----
-
-## 💗 Current Mood  
-> **Girly but dangerous.  
-> Pink but powerful.  
-> Soft but savage.**
 
 ---
 
 ## 🎧 What I'm Listening To  
 
-<div align="center" style="border-radius:20px; overflow:hidden; box-shadow:0 0 20px #ff45d4;">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5kjmhHvKyCS2WHKl2pAc5G?utm_source=generator" 
-  width="70%" height="380" frameBorder="0" allowfullscreen="" 
-  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<div align="center">
+  <a href="https://open.spotify.com/playlist/5kjmhHvKyCS2WHKl2pAc5G" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Spotify-Now%20Playing-ff45d4?style=for-the-badge&logo=spotify&logoColor=white" 
+      alt="Spotify Playlist"
+      style="border-radius:20px; box-shadow:0 0 15px #ff45d4;" />
+  </a>
 </div>
 
 ---
-
-## 🫶 Closing Vibes  
-If it’s pink, glowing, and slightly chaotic…  
-I probably made it.
