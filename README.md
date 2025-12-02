@@ -12,7 +12,7 @@
 ## 💗 About Me  
 - 💻 Student developer who loves building clean, aesthetic interfaces  
 - ⚡ Still learning, but always leveling up  
-- 🛠 Focused on HTML, CSS, JS, PHP, JAVA, and UI/UX  
+- 🛠 Focused on HTML, CSS, JS, JAVA, PHP, and UI/UX  
 - 🎧 Codes better with good music  
 - 🧠 Quiet, focused, and gets things done
   
