@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/HTML-ff45d4?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-ff45d4?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-ff45d4?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ff45d4?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-ff45d4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-ff45d4?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-ff45d4?style=for-the-badge&logo=laravel&logoColor=white" />
