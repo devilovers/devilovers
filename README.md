@@ -12,7 +12,7 @@
 ## 💗 About Me  
 - 💻 Student developer who loves building clean, aesthetic interfaces  
 - ⚡ Still learning, but always leveling up  
-- 🛠 Focused on HTML, CSS, JS, JAVA, PHP, and UI/UX  
+- 🛠 Focused on HTML, CSS, PHP, and UI/UX  
 - 🎧 Codes better with good music  
 - 🧠 Quiet, focused, and gets things done
   
@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/JavaScript-ff45d4?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ff45d4?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-ff45d4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-ff45d4?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-ff45d4?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-ff45d4?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-ff45d4?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -35,6 +36,7 @@
 <img src="https://img.shields.io/badge/Apache-ff45d4?style=for-the-badge&logo=apache&logoColor=white" />
 <img src="https://img.shields.io/badge/Laragon-ff45d4?style=for-the-badge&logo=laragon&logoColor=white" />
 <img src="https://img.shields.io/badge/Delphi-ff45d4?style=for-the-badge&logo=delphi&logoColor=white" />
+  
 </p>
 
 ---
