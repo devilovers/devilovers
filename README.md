@@ -10,7 +10,7 @@
 ---
 
 ## 💗 About Me  
-- 💻 Student developer who loves building clean, aesthetic interfaces  
+- 💻 Software Engineering student at SMKN 4 Banjarmasin
 - ⚡ Still learning, but always leveling up  
 - 🛠 Focused on HTML, CSS, PHP, and UI/UX  
 - 🎧 Codes better with good music  
