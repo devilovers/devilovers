@@ -41,18 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="left">
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=devilovers&theme=dark&hide_border=false&ring=ff45d4&fire=ff45d4&currStreakLabel=ff45d4&sideNums=ffffff&sideLabels=ff45d4&dates=ffffff&border=ff45d4" 
-    style="border-radius:12px; box-shadow:0 0 15px #ff45d4;" 
-  />
-  <br /><br />
-</p>
-
----
-
 ## 🎧 What I'm Listening To  
 
 <div align="left">
