@@ -20,22 +20,22 @@
 
 ## 💻 Tech Stack
 <p align="left">
-<img src="https://img.shields.io/badge/HTML-EFE9E3?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-EFE9E3?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-EFE9E3?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-EFE9E3?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-EFE9E3?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-EFE9E3?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-EFE9E3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-EFE9E3?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-EFE9E3?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-EFE9E3?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-EFE9E3?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-EFE9E3?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-EFE9E3?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache-EFE9E3?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Laragon-EFE9E3?style=for-the-badge&logo=laragon&logoColor=white" />
-<img src="https://img.shields.io/badge/Delphi-EFE9E3?style=for-the-badge&logo=delphi&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-EFE9E3?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS-EFE9E3?style=for-the-badge&logo=css3&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-EFE9E3?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-EFE9E3?style=for-the-badge&logo=openjdk&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-EFE9E3?style=for-the-badge&logo=php&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-EFE9E3?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-EFE9E3?style=for-the-badge&logo=bootstrap&logoColor=black" />
+<img src="https://img.shields.io/badge/Laravel-EFE9E3?style=for-the-badge&logo=laravel&logoColor=black" />
+<img src="https://img.shields.io/badge/MySQL-EFE9E3?style=for-the-badge&logo=mysql&logoColor=black" />
+<img src="https://img.shields.io/badge/SQLite-EFE9E3?style=for-the-badge&logo=sqlite&logoColor=black" />
+<img src="https://img.shields.io/badge/Android_Studio-EFE9E3?style=for-the-badge&logo=androidstudio&logoColor=black" />
+<img src="https://img.shields.io/badge/VS_Code-EFE9E3?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+<img src="https://img.shields.io/badge/Figma-EFE9E3?style=for-the-badge&logo=figma&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache-EFE9E3?style=for-the-badge&logo=apache&logoColor=black" />
+<img src="https://img.shields.io/badge/Laragon-EFE9E3?style=for-the-badge&logo=laragon&logoColor=black" />
+<img src="https://img.shields.io/badge/Delphi-EFE9E3?style=for-the-badge&logo=delphi&logoColor=black" />
   
 </p>
 
@@ -46,7 +46,7 @@
 <div align="left">
   <a href="https://open.spotify.com/playlist/5kjmhHvKyCS2WHKl2pAc5G" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Spotify-Now%20Playing-EFE9E3?style=for-the-badge&logo=spotify&logoColor=white" 
+      src="https://img.shields.io/badge/Spotify-Now%20Playing-EFE9E3?style=for-the-badge&logo=spotify&logoColor=black" 
       style="border-radius:20px; box-shadow:0 0 15px #EFE9E3;" />
   </a>
 </div>
@@ -57,17 +57,17 @@
 
 <p align="left">
   <a href="https://instagram.com/nrislmsbl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-EFE9E3?style=for-the-badge&logo=instagram&logoColor=white"
+    <img src="https://img.shields.io/badge/Instagram-EFE9E3?style=for-the-badge&logo=instagram&logoColor=black"
     style="border-radius:12px; box-shadow:0 0 15px #EFE9E3;" />
   </a>
 
   <a href="https://discord.com/users/tiredmissue" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-EFE9E3?style=for-the-badge&logo=discord&logoColor=white"
+    <img src="https://img.shields.io/badge/Discord-EFE9E3?style=for-the-badge&logo=discord&logoColor=black"
     style="border-radius:12px; box-shadow:0 0 15px #EFE9E3;" />
   </a>
 
   <a href="mailto:nrislmsbl@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EFE9E3?style=for-the-badge&logo=gmail&logoColor=white"
+    <img src="https://img.shields.io/badge/EMAIL-EFE9E3?style=for-the-badge&logo=gmail&logoColor=black"
     style="border-radius:12px; box-shadow:0 0 15px #EFE9E3;" />
   </a>
 </p>
