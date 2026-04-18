@@ -25,14 +25,12 @@
 <img src="https://img.shields.io/badge/JavaScript-B6AE9F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/Java-B6AE9F?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/PHP-B6AE9F?style=for-the-badge&logo=php&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
-<img src="https://img.shields.io/badge/Python-B6AE9F?style=for-the-badge&logo=python&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/Bootstrap-B6AE9F?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/Laravel-B6AE9F?style=for-the-badge&logo=laravel&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/MySQL-B6AE9F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/SQLite-B6AE9F?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/Android_Studio-B6AE9F?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/VS_Code-B6AE9F?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
-<img src="https://img.shields.io/badge/Figma-B6AE9F?style=for-the-badge&logo=figma&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/Apache-B6AE9F?style=for-the-badge&logo=apache&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/Laragon-B6AE9F?style=for-the-badge&logo=laragon&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
 <img src="https://img.shields.io/badge/Delphi-B6AE9F?style=for-the-badge&logo=delphi&logoColor=white&labelColor=B6AE9F&color=B6AE9F" />
