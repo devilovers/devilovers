@@ -10,7 +10,7 @@
 ---
 
 ## 💗 About Me  
-- 💻 Software Engineering student at SMKN 4 Banjarmasin
+- 💻 Frontend Developer | UI/UX Enthusiast
 - ⚡ Still learning, but always leveling up  
 - 🛠 Focused on HTML, CSS, PHP, and UI/UX  
 - 🎧 Codes better with good music  
