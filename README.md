@@ -6,11 +6,11 @@
 ---
 
 ## 💗 About Me  
-- 💻 Frontend Developer | UI/UX Enthusiast  
-- ⚡ Still learning, but always leveling up  
-- 🛠 Focused on HTML, CSS, PHP, and UI/UX  
-- 🎧 Codes better with good music  
-- 🧠 Quiet, focused, and gets things done  
+- 💻 Frontend Developer & UI/UX enthusiast  
+- ⚡ Still learning, always growing  
+- 🛠 Building with HTML, CSS, PHP, and creativity  
+- 🎧 Coding with music on repeat  
+- 🧠 Quiet, focused, and gets things done   
 
 ---
 
