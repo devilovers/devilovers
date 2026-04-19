@@ -38,23 +38,11 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🎧 What I'm Listening To  
 
-<div align="left">
-  <a href="https://open.spotify.com/playlist/5kjmhHvKyCS2WHKl2pAc5G" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" 
-      style="border-radius:20px;" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yogsgvsqj3gjl4tx6rjf3hha4a&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+</p>
 
 ---
 
