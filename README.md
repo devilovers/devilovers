@@ -56,14 +56,6 @@
 
 ---
 
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
