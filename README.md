@@ -5,7 +5,10 @@
 
 ## 👤 About Me  
 - Frontend Developer & UI/UX enthusiast  
-- Building with HTML, CSS, PHP, and creativity  
+- Building with HTML, CSS, PHP, and creativity
+- Coding with music on repeat
+- Still learning, always growing
+- Quiet, focused, and gets things done
 
 ---
 
