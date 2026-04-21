@@ -3,6 +3,8 @@
   <span style="color:#B6AE9F;">Sabyelle 👋🏻</span>
 </h1>
 
+---
+
 ## 👤 About Me  
 - Frontend Developer & UI/UX enthusiast  
 - Building with HTML, CSS, PHP, and creativity
