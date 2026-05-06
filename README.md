@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm 
-  <span style="color:#B6AE9F;">Sabyelle 👋🏻</span>
+  <span style="color:#B6AE9F;">Nur Islami Sabila 👋🏻</span>
 </h1>
 
 ---
