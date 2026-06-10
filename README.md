@@ -48,15 +48,15 @@
 <p align="left">
 
 <a href="https://instagram.com/nrislmsbl" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-F48FB1?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-F48FB1?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/tiredmissue" target="_blank">
-<img src="https://img.shields.io/badge/Discord-F48FB1?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-F48FB1?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:nrislmsbl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-F48FB1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-F48FB1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -66,7 +66,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&theme=tokyonight&hide_border=true&ring=F48FB1&fire=F48FB1&currStreakLabel=F48FB1&sideLabels=F48FB1&sideNums=F48FB1&dates=F8BBD0" />
+  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=F48FB1&ring=F48FB1&fire=F48FB1&currStreakNum=F48FB1&currStreakLabel=F48FB1&sideNums=F48FB1&sideLabels=F48FB1&dates=F8BBD0" />
 </p>
 
 ---
