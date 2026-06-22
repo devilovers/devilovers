@@ -2,11 +2,7 @@
 
 ## 👤 About Me
 
-- 💻 Frontend Developer & UI/UX Enthusiast
-- 🎨 Building with HTML, CSS, PHP, and creativity
-- 🎵 Coding with music on repeat
-- 🌱 Still learning, always growing
-- ✨ Quiet, focused, and gets things done
+Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate About Web Development.
 
 ---
 
