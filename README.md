@@ -1,11 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B27,50:A78BFA,100:F9A8D4&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&weight=600&size=24&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Enthusiast;Building+with+Code+and+Creativity;Always+Learning+New+Things"/>
-
-</div>
-
 ---
 
 ## 👤 About Me
