@@ -1,8 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Nur%20Islami%20Sabila&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+
 <div align="center">
 
-# Hi, I'm Nur Islami Sabila 👋🏻
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Lifelong+Learner;Building+with+Code+and+Creativity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;Lifelong+Learner;Building+with+Code+and+Creativity" />
 
 </div>
 
@@ -68,15 +68,15 @@
 <p align="left">
 
 <a href="https://instagram.com/nrislmsbl">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/lipglossess">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:nrislmsbl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -96,3 +96,5 @@
 *"Learning by building, growing by creating."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:38BDF8"/>
