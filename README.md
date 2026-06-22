@@ -1,8 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F2937,100:A371F7&text=Nur%20Islami%20Sabila&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F2937,100:A371F7&section=header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Enthusiast;Building+with+Code+and+Creativity;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=42&pause=100000&color=A371F7&center=true&vCenter=true&width=700&lines=Nur+Islami+Sabila"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Enthusiast;Building+with+Code+and+Creativity;Always+Learning+New+Things"/>
 
 </div>
 
