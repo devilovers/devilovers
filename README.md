@@ -1,12 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1A1B27,50:6D4C7D,100:D8A7B1&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F2937,100:A371F7&text=Nur%20Islami%20Sabila&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=42&duration=4000&pause=100000&color=D8A7B1&center=true&vCenter=true&width=600&lines=Nur+Islami+Sabila"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=CBA6C3&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Enthusiast;Building+with+Code+and+Creativity;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Enthusiast;Building+with+Code+and+Creativity;Always+Learning+New+Things"/>
 
 </div>
 
@@ -24,7 +20,7 @@
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -53,9 +49,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=D8A7B1&icon_color=CBA6C3&text_color=E5C1CD"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=A371F7&icon_color=58A6FF&text_color=C9D1D9"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=D8A7B1&text_color=E5C1CD"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=A371F7&text_color=C9D1D9"/>
 </p>
 
 ---
@@ -63,25 +59,25 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=D8A7B1&ring=D8A7B1&fire=CBA6C3&currStreakNum=E5C1CD&currStreakLabel=D8A7B1&sideNums=E5C1CD&sideLabels=E5C1CD&dates=CBA6C3"/>
+  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=A371F7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=58A6FF"/>
 </p>
 
 ---
 
 ## 💌 Let's Connect
 
-<p align="left">
+<p>
 
-<a href="https://instagram.com/nrislmsbl" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/nrislmsbl">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/lipglossess" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discord.com/users/lipglossess">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:nrislmsbl@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -102,8 +98,8 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=D8A7B1&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1A1B27,50:6D4C7D,100:D8A7B1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,50:1F2937,100:A371F7"/>
