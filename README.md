@@ -1,109 +1,97 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:1F2937,100:A371F7&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=280&section=header&text=Nur%20Islami%20Sabila&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=42&pause=100000&color=A371F7&center=true&vCenter=true&width=700&lines=Nur+Islami+Sabila"/>
+# ✨ Frontend Developer & UI/UX Enthusiast
 
-<br>
+Building beautiful interfaces with code and creativity.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Enthusiast;Building+with+Code+and+Creativity;Always+Learning+New+Things"/>
+<p>
+  <a href="mailto:nrislmsbl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://instagram.com/nrislmsbl">
+    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/lipglossess">
+    <img src="https://img.shields.io/badge/Discord-18181B?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👤 About Me
+# 👋 About Me
 
-- 💻 Frontend Developer & UI/UX Enthusiast
-- 🎨 Building with HTML, CSS, PHP, and creativity
-- 🎵 Coding with music on repeat
-- 🌱 Still learning, always growing
-- ✨ Quiet, focused, and gets things done
-
----
-
-## 💻 Tech Stack
-
-<p>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge"/>
-
-</p>
+```ts
+const nur = {
+  role: "Frontend Developer",
+  learning: ["Laravel", "UI/UX Design"],
+  languages: ["HTML", "CSS", "JavaScript", "PHP", "Python"],
+  tools: ["VS Code", "Laragon", "MySQL", "Android Studio"],
+  motto: "Learning by building."
+};
+```
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=A371F7&icon_color=58A6FF&text_color=C9D1D9"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=A371F7&text_color=C9D1D9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio" />
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=0D1117&stroke=A371F7&ring=A371F7&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=A371F7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=58A6FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
 
-## 💌 Let's Connect
-
-<p>
-
-<a href="https://instagram.com/nrislmsbl">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/lipglossess">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="mailto:nrislmsbl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://streak-stats.demolab.com?user=devilovers&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+> "Code is not just syntax. It's creativity turned into reality."
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile ✨
+<img src="https://komarev.com/ghpvc/?username=devilovers&style=for-the-badge&color=blueviolet"/>
 
-<i>Code with passion, create with purpose.</i>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=58A6FF&style=for-the-badge"/>
+### Thanks for visiting 💜
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,50:1F2937,100:A371F7"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
+</p>
