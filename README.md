@@ -40,10 +40,4 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A1B27,50:BE5D8C,100:E8A7C5"/>
