@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0A0F,40:FF0080,70:FF3CAC,100:7A00FF&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0A0A0F,50:FF007F,100:FF2DAA&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 ## About Me
 
@@ -13,13 +13,13 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=0A0A0F&stroke=FF0080&ring=FF3CAC&fire=FF00CC&currStreakNum=FFFFFF&currStreakLabel=FF3CAC&sideNums=FFFFFF&sideLabels=FF00CC&dates=7A00FF" />
+  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=0A0A0F&stroke=FF007F&ring=FF007F&fire=FF2DAA&currStreakNum=FFFFFF&currStreakLabel=FF2DAA&sideNums=FFFFFF&sideLabels=FF2DAA&dates=FF66CC" />
 </p>
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=0A0A0F&color=FFFFFF&line=FF3CAC&point=FF00CC&area=true&area_color=1A0025&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=0A0A0F&color=FF2DAA&line=FF007F&point=FF66CC&area=true&area_color=140010&hide_border=true" />
 </p>
 
 ## Contribution Statistics
@@ -38,15 +38,15 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 <p align="center">
 
 <a href="https://instagram.com/nrislmsbl">
-  <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/lipglossess">
-  <img src="https://img.shields.io/badge/Discord-7A00FF?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-FF2DAA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:nrislmsbl@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF3CAC?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-FF66CC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -55,4 +55,4 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0A0A0F,40:FF0080,70:FF3CAC,100:7A00FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0A0A0F,50:FF007F,100:FF2DAA"/>
