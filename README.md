@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B27,40:F472B6,100:F9A8D4&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
----
-
 ## About Me
 
 Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate About Web Development.
@@ -16,6 +14,23 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=FF69B4&ring=FF69B4&fire=FFB6C1&currStreakNum=FFFFFF&currStreakLabel=FF69B4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFB6C1" />
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=F472B6&point=FFB6C1&area=true&area_color=F472B6&hide_border=true" />
+</p>
+
+## Contribution Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilovers&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilovers&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilovers&theme=dracula&utcOffset=8" />
 </p>
 
 ## Let's Connect
@@ -40,8 +55,4 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<div align="center">
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A1B27,40:F472B6,100:F9A8D4"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A1B27,40:F472B6,100:F9A8D4"/>
