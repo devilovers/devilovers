@@ -4,29 +4,25 @@
 
 Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate About Web Development.
 
-
 ## 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio" />
 </p>
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=FFB6C1&text_color=FFFFFF&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=FFB6C1&text_color=FFFFFF&cache_seconds=1800" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4&text_color=FFFFFF&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4&text_color=FFFFFF&cache_seconds=1800" />
 </p>
-
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=FF69B4&ring=FF69B4&fire=FFB6C1&currStreakNum=FFFFFF&currStreakLabel=FF69B4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFB6C1" />
 </p>
-
 
 ## 💌 Let's Connect
 
@@ -46,11 +42,9 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 
 <div align="center">
 
