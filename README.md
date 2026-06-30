@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:C084FC,100:F472B6&text=Hi,%20I'm%20Nur%20Islami%20Sabila 👋🏻&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:C084FC,100:F472B6&text=Hi,%20I'm%20Nur%20Islami%20Sabila👋🏻&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h3 align="center">Frontend Developer & UI/UX Enthusiast</h3>
 
