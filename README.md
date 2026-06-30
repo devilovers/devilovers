@@ -1,32 +1,28 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF69B4,50:FF007F,100:FFB6C1&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B27,50:BE5D8C,100:E8A7C5&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-<br>
+## About Me
 
-## 💖 About Me
+Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate About Web Development.
 
-<p align="center">
-  <b>Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate About Web Development.</b>
-</p>
-
-<br>
-
-## ✨ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio" />
 </p>
 
-<br>
-
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=false&border=FF007F&background=ffffff&stroke=FF69B4&ring=FF007F&fire=FF007F&currStreakNum=FF007F&currStreakLabel=FF69B4&sideNums=FF007F&sideLabels=FF69B4&dates=FF007F" />
+  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=D67BA8&ring=E8A7C5&fire=E8A7C5&currStreakNum=FFFFFF&currStreakLabel=E8A7C5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=BE5D8C" />
 </p>
 
-<br>
+## GitHub Analytics
 
-## 📊 Contribution Statistics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=D67BA8&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true" />
+</p>
+
+## Contribution Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilovers&theme=rose_pine" />
@@ -37,29 +33,26 @@
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilovers&theme=rose_pine&utcOffset=8" />
 </p>
 
-<br>
-
-## 🌐 Let's Connect
+## Let's Connect
 
 <p align="center">
 
 <a href="https://instagram.com/nrislmsbl">
-  <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/lipglossess">
-  <img src="https://img.shields.io/badge/Discord-FF69B4?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:nrislmsbl@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=FF1493"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-<br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF69B4,50:FF007F,100:FFB6C1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A1B27,50:BE5D8C,100:E8A7C5"/>
