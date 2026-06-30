@@ -1,12 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B27,50:BE5D8C,100:E8A7C5&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-## 👩‍💻 About Me
+## About Me
 
-Frontend Developer & UI/UX Enthusiast | Passionate About Web Development
+Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio" />
@@ -14,7 +14,7 @@ Frontend Developer & UI/UX Enthusiast | Passionate About Web Development
 
 ---
 
-## 📊 Contribution Statistics
+## Contribution Statistics
 
 <p align="left">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilovers&theme=rose_pine" />
@@ -27,7 +27,7 @@ Frontend Developer & UI/UX Enthusiast | Passionate About Web Development
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=D67BA8&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true" />
@@ -35,7 +35,7 @@ Frontend Developer & UI/UX Enthusiast | Passionate About Web Development
 
 ---
 
-## 💌 Let's Connect
+## Let's Connect
 
 <p align="left">
 
