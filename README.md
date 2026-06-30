@@ -12,10 +12,7 @@ Passionate about building clean, responsive, and user-friendly web applications 
 
 ## About Me
 
-- Frontend Developer & UI/UX Enthusiast
-- Building web applications with HTML, CSS, JavaScript, and PHP
-- Interested in creating elegant and intuitive user experiences
-- Continuously learning and improving development skills
+Passionate about web development and creating clean, functional, and user-friendly digital experiences while continuously learning and exploring new technologies.
 
 ---
 
