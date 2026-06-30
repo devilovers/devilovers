@@ -58,14 +58,6 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 
 ---
 
-<div align="center">
-
-### ✨ Thanks for visiting my profile ✨
-
-<i>Learning by building, growing by creating.</i>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=F472B6&style=for-the-badge"/>
 
 </div>
