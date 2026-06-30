@@ -28,12 +28,9 @@ I enjoy learning new technologies and continuously improving my skills to build 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=FFFFFF&bg_color=1A1B27" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilovers&theme=dracula" />
+
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilovers&theme=tokyonight" />
 </p>
-
----
-
-## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=F472B6&ring=F472B6&fire=F9A8D4&currStreakNum=FFFFFF&currStreakLabel=F472B6&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C084FC" />
@@ -41,23 +38,16 @@ I enjoy learning new technologies and continuously improving my skills to build 
 
 ---
 
-## Productive Time
+## Development Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilovers&theme=dracula&utcOffset=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilovers&theme=tokyonight&utcOffset=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devilovers&theme=tokyonight" />
 </p>
-
----
-
-## Profile Details
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilovers&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilovers&theme=tokyonight" />
 </p>
-
----
-
-## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=F472B6&point=C084FC&hide_border=true" />
