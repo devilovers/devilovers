@@ -16,12 +16,12 @@ Frontend Developer & UI/UX Enthusiast | Passionate About Web Development
 
 ## 📊 Contribution Statistics
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilovers&theme=rose_pine" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilovers&theme=rose_pine&utcOffset=8" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilovers&theme=rose_pine" />
 </p>
 
@@ -29,7 +29,7 @@ Frontend Developer & UI/UX Enthusiast | Passionate About Web Development
 
 ## 📈 GitHub Analytics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=D67BA8&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true" />
 </p>
 
@@ -37,7 +37,7 @@ Frontend Developer & UI/UX Enthusiast | Passionate About Web Development
 
 ## 💌 Let's Connect
 
-<p align="center">
+<p align="left">
 
 <a href="https://instagram.com/nrislmsbl">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
