@@ -21,12 +21,6 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilovers&theme=rose_pine" />
 </p>
 
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=D67BA8&ring=E8A7C5&fire=E8A7C5&currStreakNum=FFFFFF&currStreakLabel=E8A7C5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=BE5D8C" />
-</p>
-
 ## GitHub Analytics
 
 <p align="center">
