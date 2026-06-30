@@ -2,9 +2,7 @@
 
 ## About Me
 
-Frontend Developer & UI/UX Enthusiast • HTML, CSS & PHP Developer • Passionate About Web Development
-
-<br>
+Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate About Web Development.
 
 ## Tech Stack
 
@@ -12,23 +10,17 @@ Frontend Developer & UI/UX Enthusiast • HTML, CSS & PHP Developer • Passiona
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio" />
 </p>
 
-<br>
-
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=B87A99&ring=D79AB7&fire=E8A7C5&currStreakNum=FFFFFF&currStreakLabel=E8A7C5&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C793B1" />
+  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=FF4FA3&ring=FF69B4&fire=FF8CC8&currStreakNum=FFFFFF&currStreakLabel=FF8CC8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FF69B4" />
 </p>
-
-<br>
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=C793B1&point=E8A7C5&area=true&area_color=B87A99&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=FF69B4&point=FF8CC8&area=true&area_color=FF4FA3&hide_border=true" />
 </p>
-
-<br>
 
 ## Contribution Statistics
 
@@ -41,25 +33,23 @@ Frontend Developer & UI/UX Enthusiast • HTML, CSS & PHP Developer • Passiona
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilovers&theme=rose_pine&utcOffset=8" />
 </p>
 
-<br>
-
 ## Let's Connect
 
 <p align="center">
-  <a href="https://instagram.com/nrislmsbl">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 
-  <a href="https://discord.com/users/lipglossess">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+<a href="https://instagram.com/nrislmsbl">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-  <a href="mailto:nrislmsbl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://discord.com/users/lipglossess">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="mailto:nrislmsbl@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
