@@ -34,7 +34,7 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 
 ## 💌 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://instagram.com/nrislmsbl">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
