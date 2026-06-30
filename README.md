@@ -12,15 +12,13 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=FFB6C1&text_color=FFFFFF&cache_seconds=1800" />
-
+<p align="left">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4&text_color=FFFFFF&cache_seconds=1800" />
 </p>
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=FF69B4&ring=FF69B4&fire=FFB6C1&currStreakNum=FFFFFF&currStreakLabel=FF69B4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFB6C1" />
 </p>
 
