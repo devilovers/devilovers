@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B27,50:A78BFA,100:F9A8D4&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B27,40:F472B6,100:F9A8D4&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 ## 👤 About Me
 
@@ -17,9 +17,9 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=F9A8D4&icon_color=A78BFA&text_color=C4B5FD" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=F472B6&icon_color=F9A8D4&text_color=FBCFE8" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=F9A8D4&text_color=C4B5FD" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=FBCFE8" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=F9A8D4&ring=F9A8D4&fire=A78BFA&currStreakNum=C4B5FD&currStreakLabel=F9A8D4&sideNums=C4B5FD&sideLabels=C4B5FD&dates=A78BFA" />
+  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=F472B6&ring=F472B6&fire=F9A8D4&currStreakNum=FBCFE8&currStreakLabel=F472B6&sideNums=FBCFE8&sideLabels=FBCFE8&dates=F9A8D4" />
 </p>
 
 ---
@@ -66,8 +66,9 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=A78BFA&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=F472B6&style=for-the-badge"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A1B27,50:A78BFA,100:F9A8D4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A1B27,40:F472B6,100:F9A8D4"/>
+```
