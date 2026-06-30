@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B27,50:BE5D8C,100:E8A7C5&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B27,50:FF66C4,100:FF9DE2&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 ## About Me
 
@@ -13,13 +13,13 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=FF4FA3&ring=FF69B4&fire=FF8CC8&currStreakNum=FFFFFF&currStreakLabel=FF8CC8&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FF69B4" />
+  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=FF66C4&ring=FF4FC0&fire=FF9DE2&currStreakNum=FFFFFF&currStreakLabel=FF9DE2&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FF7DCE" />
 </p>
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=FF69B4&point=FF8CC8&area=true&area_color=FF4FA3&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=FF66C4&point=FF9DE2&area=true&area_color=FF4FC0&hide_border=true" />
 </p>
 
 ## Contribution Statistics
@@ -55,4 +55,4 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A1B27,50:BE5D8C,100:E8A7C5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A1B27,50:FF66C4,100:FF9DE2"/>
