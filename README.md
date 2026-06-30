@@ -30,14 +30,6 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=devilovers&theme=darkhub&no-frame=true&column=7" />
-</p>
-
----
-
 ## 💌 Let's Connect
 
 <p align="center">
