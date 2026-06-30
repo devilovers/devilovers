@@ -30,10 +30,10 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 
 ---
 
-## 💻 Most Used Languages
+## 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=FFFFFF&border_color=BE5D8C&langs_count=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devilovers&theme=darkhub&no-frame=true&column=7" />
 </p>
 
 ---
