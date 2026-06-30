@@ -14,18 +14,18 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=D67BA8&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilovers&theme=transparent&background=1A1B27&border=BE5D8C&ring=E8A7C5&fire=BE5D8C&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=D67BA8&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true" />
 </p>
 
 ---
