@@ -10,6 +10,17 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio" />
 </p>
 
+## Contribution Statistics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilovers&theme=rose_pine" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilovers&theme=rose_pine" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilovers&theme=rose_pine&utcOffset=8" />
+</p>
+
 ## GitHub Streak
 
 <p align="center">
@@ -20,17 +31,6 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=D67BA8&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true" />
-</p>
-
-## Contribution Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilovers&theme=rose_pine" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilovers&theme=rose_pine" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilovers&theme=rose_pine&utcOffset=8" />
 </p>
 
 ## Let's Connect
