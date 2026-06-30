@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1A1B27,50:BE5D8C,100:E8A7C5&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
-## 👩‍💻 About Me
+## 👤 About Me
 
 Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 
