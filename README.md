@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:C084FC,100:F472B6&text=Hi,%20I'm%20Nur%20Islami%20Sabila&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:C084FC,100:F472B6&text=Hi,%20I'm%20Nur%20Islami%20Sabila 👋🏻&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h3 align="center">Frontend Developer & UI/UX Enthusiast</h3>
 
@@ -12,27 +12,12 @@ Creating modern, responsive, and visually appealing web experiences.
 
 I am a Frontend Developer and UI/UX enthusiast who enjoys turning ideas into interactive and user-friendly interfaces. I have experience building web applications using HTML, CSS, JavaScript, PHP, and Laravel, with a strong interest in clean design and responsive layouts.
 
-I am always eager to learn new technologies, improve my development skills, and explore modern approaches to web development. For me, coding is not only about writing functional code but also about creating experiences that are simple, intuitive, and enjoyable for users.
-
 ---
 
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio" />
-</p>
-
----
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/devilovers/PeaceBlur">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devilovers&repo=PeaceBlur&theme=tokyonight&hide_border=true&title_color=F472B6&icon_color=C084FC" />
-  </a>
-  <a href="https://github.com/devilovers/Kalkulator-Sederhana">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devilovers&repo=Kalkulator-Sederhana&theme=tokyonight&hide_border=true&title_color=F472B6&icon_color=C084FC" />
-  </a>
 </p>
 
 ---
