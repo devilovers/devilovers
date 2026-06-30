@@ -1,8 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F1A,50:4C1D95,100:C026D3&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=c026d3&style=flat-square"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:140B17,50:7E1E5A,100:D946EF&text=Hi,%20I'm%20Nur%20Islami%20Sabila%20👋🏻&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 
 ## About Me
 
@@ -18,11 +14,10 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 
 ---
 
-## GitHub Stats
+## Top Languages
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=C026D3&icon_color=EC4899&text_color=ffffff"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=C026D3&text_color=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&hide_border=true&bg_color=140B17&title_color=D946EF&text_color=FFFFFF&icon_color=D946EF" />
 </p>
 
 ---
@@ -30,7 +25,7 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=0F0F1A&stroke=C026D3&ring=EC4899&fire=EC4899&currStreakNum=FFFFFF&currStreakLabel=EC4899&sideNums=FFFFFF&sideLabels=FFFFFF&dates=C084FC" />
+  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=140B17&stroke=D946EF&ring=D946EF&fire=EC4899&currStreakNum=FFFFFF&currStreakLabel=D946EF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=F9A8D4" />
 </p>
 
 ---
@@ -38,7 +33,7 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=0F0F1A&color=FFFFFF&line=C026D3&point=EC4899&area=true&area_color=6D28D9&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=140B17&color=FFFFFF&line=D946EF&point=F472B6&area=true&area_color=7E1E5A&hide_border=true" />
 </p>
 
 ---
@@ -48,15 +43,15 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 <p align="center">
 
 <a href="https://instagram.com/nrislmsbl">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-D946EF?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/lipglossess">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-7E1E5A?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:nrislmsbl@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-C026D3?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -65,4 +60,4 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F0F1A,50:4C1D95,100:C026D3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:140B17,50:7E1E5A,100:D946EF"/>
