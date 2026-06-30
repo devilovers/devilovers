@@ -8,7 +8,7 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio" />
 </p>
 
@@ -17,9 +17,9 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=F472B6&icon_color=F9A8D4&text_color=FBCFE8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF69B4&icon_color=FFB6C1&text_color=FFFFFF&cache_seconds=1800" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=F472B6&text_color=FBCFE8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=tokyonight&hide_border=true&title_color=FF69B4&text_color=FFFFFF&cache_seconds=1800" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=F472B6&ring=F472B6&fire=F9A8D4&currStreakNum=FBCFE8&currStreakLabel=F472B6&sideNums=FBCFE8&sideLabels=FBCFE8&dates=F9A8D4" />
+  <img src="https://streak-stats.demolab.com?user=devilovers&hide_border=true&background=1A1B27&stroke=FF69B4&ring=FF69B4&fire=FFB6C1&currStreakNum=FFFFFF&currStreakLabel=FF69B4&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFB6C1" />
 </p>
 
 ---
@@ -56,9 +56,10 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
-<img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=F472B6&style=for-the-badge"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=FF69B4&style=for-the-badge"/>
 
 </div>
 
