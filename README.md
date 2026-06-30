@@ -17,7 +17,7 @@ Frontend Developer & UI/UX Enthusiast | HTML, CSS & PHP Developer | Passionate A
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilovers&theme=rose_pine&utcOffset=8" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilovers&theme=rose_pine" />
 </p>
 
