@@ -9,7 +9,7 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 ## 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio,lua" />
 </p>
 
 ---
