@@ -51,8 +51,4 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devilovers&label=Profile%20Views&color=BE5D8C&style=for-the-badge" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1A1B27,50:BE5D8C,100:E8A7C5"/>
