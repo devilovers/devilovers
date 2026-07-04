@@ -17,16 +17,8 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devilovers&show_icons=true&theme=transparent&title_color=E8A7C5&text_color=FFFFFF&icon_color=BE5D8C&border_color=BE5D8C&hide_border=false&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=transparent&title_color=E8A7C5&text_color=FFFFFF&border_color=BE5D8C&hide_border=false"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devilovers&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devilovers&show_icons=true&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=F7B8D4&icon_color=BE5D8C&border_color=BE5D8C&hide_border=false&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=F7B8D4&border_color=BE5D8C&hide_border=false"/>
 </p>
 
 ---
@@ -34,7 +26,7 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=BE5D8C&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=F7B8D4&line=BE5D8C&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true"/>
 </p>
 
 ---
@@ -44,15 +36,15 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 <p align="center">
 
 <a href="https://instagram.com/nrislmsbl">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-BE5D8C?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/lipglossess">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-CB77A8?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:nrislmsbl@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-E8A7C5?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
