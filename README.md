@@ -17,16 +17,24 @@ Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=FFFFFF&icon_color=BE5D8C&border_color=BE5D8C&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=FFFFFF&border_color=BE5D8C"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devilovers&show_icons=true&theme=transparent&title_color=E8A7C5&text_color=FFFFFF&icon_color=BE5D8C&border_color=BE5D8C&hide_border=false&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=transparent&title_color=E8A7C5&text_color=FFFFFF&border_color=BE5D8C&hide_border=false"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devilovers&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
 </p>
 
 ---
 
 ## 📈 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=D67BA8&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilovers&bg_color=1A1B27&color=FFFFFF&line=BE5D8C&point=E8A7C5&area=true&area_color=BE5D8C&hide_border=true"/>
 </p>
 
 ---
