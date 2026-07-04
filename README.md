@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-Frontend Developer & UI/UX Enthusiast, Passionate About Web Development
+Frontend Developer & UI/UX Designer, Passionate About Web Development
 
 ---
 
