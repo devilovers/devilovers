@@ -16,9 +16,9 @@ Frontend Developer & UI/UX Designer, Passionate About Web Development
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&rank_icon=github&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=F7B8D4&icon_color=BE5D8C&border_color=BE5D8C&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=F7B8D4&border_color=BE5D8C&hide_border=false"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact"/>
 </p>
 
 ---
