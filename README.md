@@ -9,7 +9,7 @@ Frontend Developer & UI/UX Designer, Passionate About Web Development
 ## 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,python,laravel,java,mysql,sqlite,vscode,androidstudio,lua" />
 </p>
 
 ---
@@ -17,8 +17,8 @@ Frontend Developer & UI/UX Designer, Passionate About Web Development
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devilovers&show_icons=true&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=F7B8D4&icon_color=BE5D8C&border_color=BE5D8C&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=F7B8D4&border_color=BE5D8C&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devilovers&show_icons=true&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=F7B8D4&icon_color=BE5D8C&border_color=BE5D8C&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilovers&layout=compact&theme=transparent&bg_color=1A1B27&title_color=E8A7C5&text_color=F7B8D4&border_color=BE5D8C&hide_border=false"/>
 </p>
 
 ---
