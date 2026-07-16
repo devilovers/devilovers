@@ -2,7 +2,7 @@
 
 I'm a beginner **Frontend Developer** 💻 and an aspiring **UI/UX Designer** 🎨<br />
 I created this GitHub profile to document my learning journey, share my projects, and keep improving every day.<br />
-I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer<br />
+I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer.<br />
 
 ⭐️ Feel free to **follow me** - I'd really appreciate your support!<br />
 
@@ -16,6 +16,6 @@ P.S.: I **followed** your profile because your projects caught my interest.<br /
 I genuinely enjoy discovering new ideas and learning from other developers.<br />
 Thank you for sharing your work with the community. I really appreciate it!<br />
 
-[Instagram](https://instagram.com/nrislmsbl) •
-[Discord](https://discord.com/users/lipglossess) •
+[Instagram](https://instagram.com/nrislmsbl) 
+[Discord](https://discord.com/users/lipglossess) 
 [Gmail](mailto:nrislmsbl@gmail.com)
