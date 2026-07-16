@@ -6,7 +6,7 @@ I'll be happy to receive any **feedback** or **code reviews** that can help me b
 
 ⭐️ Feel free to **follow me** I'd really appreciate your support<br />
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/yumiaura/myCat/refs/heads/main/docs/cat.gif" width="320">
 </p>
 
