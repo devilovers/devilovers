@@ -1,8 +1,8 @@
-# 👋 Hello!
+# 👋 Hi, I'm Nur Islami Sabila
 
 I'm a beginner **Frontend Developer** and an aspiring **UI/UX Designer**<br />
 I created this GitHub profile to document my learning journey, share my projects, and keep improving every day.<br />
-I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer 💖<br />
+I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer<br />
 
 ⭐️ Feel free to **follow me** I'd really appreciate your support<br />
 
