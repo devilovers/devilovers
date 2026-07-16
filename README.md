@@ -1,24 +1,20 @@
 # 👋 Hello!
 
-I'm **Nur Islami Sabila**, a passionate **Frontend Developer** and **UI/UX Designer** from Indonesia 🇮🇩<br />
-I enjoy building modern, responsive, and user friendly websites while continuously learning new technologies and improving my skills every day<br />
+I'm a beginner **Frontend Developer** and an aspiring **UI/UX Designer**<br />
+I created this GitHub profile to document my learning journey, share my projects, and keep improving every day.<br />
+I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer 💖<br />
 
-This GitHub profile is where I share my projects, document my learning journey, and experiment with new ideas.<br />
+⭐️ Feel free to **follow me** I'd really appreciate your support<br />
 
-I'm always happy to receive **feedback**, **suggestions**, or **code reviews** that can help me become a better developer.<br />
-
-⭐ Feel free to **explore my repositories**, leave a ⭐ if you find them useful, or **follow me** to support my journey
-
-<p align="left">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Coding Cat">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yumiaura/myCat/refs/heads/main/docs/cat.gif" width="320">
 </p>
 
-Thank you for visiting my profile <3<br />
-I hope you'll discover something useful or inspiring here.
+Thank you for visiting my page <3
 
-P.S. If I followed your profile, it's because your work genuinely caught my attention.<br />
-
-### 🌐 Let's Connect
+P.S.: I **followed** your profile because your projects caught my interest.<br />
+I genuinely enjoy discovering new ideas and learning from other developers.<br />
+Thank you for sharing your work with the community. I really appreciate it! 🌸<br />
 
 [Instagram](https://instagram.com/nrislmsbl) •
 [Discord](https://discord.com/users/lipglossess) •
