@@ -1,41 +1,35 @@
 # 👋 Hi, I'm Nur Islami Sabila
 
-<div align="center">
+I'm a beginner **Frontend Developer** 💻 and an aspiring **UI/UX Designer** 🎨<br />
+I created this GitHub profile to document my learning journey, share my projects, and keep improving every day.<br />
+I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer.<br />
 
-  <!-- BANNER HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=220&section=header&text=Hi%20there,%20I'm%20Nur%20Islami%20Sabila!%20✨&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+⭐️ Feel free to **follow me** - I'd really appreciate your support!<br />
 
-  <!-- SUBTITLE ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF92C2&center=true&vCenter=true&width=500&lines=Informatics+Student+💻;Junior+Web+Developer+🌐;Creative+Designer+🎨;UI%2FUX+%26+3D+Enthusiast+🌸" alt="Typing SVG" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/yumiaura/myCat/refs/heads/main/docs/cat.gif" width="320">
+</p>
+
+Thank you for visiting my page <3
+
+P.S. I **followed** your profile because i genuinely enjoy discovering new ideas and learning from other developers.<br />
+Thank you for sharing your work with the community. I really appreciate it!<br />
+
+<br />
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://devilovers.github.io/3DPortofolio/" target="_blank">
+    <img src="https://img.shields.io/badge/3D_Portfolio-6C5CE7?style=for-the-badge&logo=react&logoColor=white" alt="3D Portfolio" />
   </a>
-
-  <br/><br/>
-
-  <!-- SOCIAL MEDIA BADGES -->
   <a href="https://instagram.com/nrislmsbl" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/nrislmsbl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://discord.com/users/lipglossess" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:nrislmsbl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://devilovers.github.io/3DPortofolio/" target="_blank">
-    <img src="https://img.shields.io/badge/3D_Portfolio-FF69B4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-
-</div>
-
-<br/>
-
----
-
-### 🌸 About Me
-
-```text
-✨ Informatics Student passionate about Web Development & Creative Design.
-💻 Love crafting aesthetic, modern, and interactive digital experiences.
-🎨 Exploring 3D design, UI/UX, and Python projects.
-🚀 Currently learning and building cool web stuff!
+</p>
