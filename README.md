@@ -19,15 +19,15 @@ Thank you for sharing your work with the community. I really appreciate it!<br /
 
 <p align="left">
   <a href="https://devilovers.github.io/3DPortofolio/" target="_blank">
-    <img src="https://img.shields.io/badge/✨_3D_PORTFOLIO-000000?style=for-the-badge&logo=three.js&logoColor=00FFFF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/✨_3D_PORTFOLIO-FFB6C1?style=plastic&logo=react&logoColor=D87093&labelColor=FFF0F5" alt="Portfolio" />
   </a>
   <a href="https://instagram.com/nrislmsbl" target="_blank">
-    <img src="https://img.shields.io/badge/📸_INSTAGRAM-FF007F?style=for-the-badge&logo=instagram&logoColor=FFF&color=FF1493" alt="Instagram" />
+    <img src="https://img.shields.io/badge/🌸_INSTAGRAM-FF69B4?style=plastic&logo=instagram&logoColor=FFF&labelColor=FFC0CB" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/lipglossess" target="_blank">
-    <img src="https://img.shields.io/badge/💬_DISCORD-4D00FF?style=for-the-badge&logo=discord&logoColor=00FFCC" alt="Discord" />
+    <img src="https://img.shields.io/badge/🎀_DISCORD-DB7093?style=plastic&logo=discord&logoColor=FFF&labelColor=FFE4E1" alt="Discord" />
   </a>
   <a href="mailto:nrislmsbl@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_GMAIL-FF2A2A?style=for-the-badge&logo=gmail&logoColor=FFFF00" alt="Gmail" />
+    <img src="https://img.shields.io/badge/💌_GMAIL-FF1493?style=plastic&logo=gmail&logoColor=FFF&labelColor=FFB6C1" alt="Gmail" />
   </a>
 </p>
