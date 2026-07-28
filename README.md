@@ -19,7 +19,7 @@ Thank you for sharing your work with the community. I really appreciate it!<br /
 
 <p align="left">
   <a href="https://devilovers.github.io/3DPortofolio/" target="_blank">
-    <img src="https://img.shields.io/badge/3D_Portfolio-6C5CE7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://instagram.com/nrislmsbl" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
