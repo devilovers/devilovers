@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nur Islami Sabila
 
-I'm a beginner **Frontend Developer** <img src="https://img.icons8.com/pixel-cutout/64/laptop.png" alt="Laptop Pixel" width="30" height="30" align="center" /> and an aspiring **UI/UX Designer** <img src="https://img.icons8.com/pixel-cutout/64/paint-palette.png" alt="Palette Pixel" width="30" height="30" align="center" /><br />
+I'm a beginner **Frontend Developer** <img src="https://raw.githubusercontent.com/rohitdasu/project-assets/main/pixel-art/laptop.png" alt="Laptop Pixel" width="28" height="28" align="center" /> and an aspiring **UI/UX Designer** <img src="https://raw.githubusercontent.com/rohitdasu/project-assets/main/pixel-art/palette.png" alt="Palette Pixel" width="28" height="28" align="center" /><br />
 I created this GitHub profile to document my learning journey, share my projects, and keep improving every day.<br />
 I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer.<br />
 
