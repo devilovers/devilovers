@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nur Islami Sabila
 
-I'm a beginner **Frontend Developer** <img src="https://img.icons8.com/pixel-cutout/96/FFE4B5/laptop.png" alt="Laptop Pixel Cream" width="30" height="30" align="center" /> and an aspiring **UI/UX Designer** <img src="https://img.icons8.com/pixel-cutout/96/FFE4B5/paint-palette.png" alt="Palette Pixel Cream" width="30" height="30" align="center" /><br />
+I'm a beginner **Frontend Developer** <img src="https://api.iconify.design/pixelarticons:device-laptop.svg" alt="Laptop Pixel" width="28" height="28" align="center" /> and an aspiring **UI/UX Designer** <img src="https://api.iconify.design/pixelarticons:paint-bucket.svg" alt="Palette Pixel" width="28" height="28" align="center" /><br />
 I created this GitHub profile to document my learning journey, share my projects, and keep improving every day.<br />
 I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer.<br />
 
@@ -15,7 +15,7 @@ Thank you for visiting my page <3
 P.S. I **followed** your profile because i genuinely enjoy discovering new ideas and learning from other developers.<br />
 Thank you for sharing your work with the community. I really appreciate it!<br />
 
-<br|/>
+<br />
 
 <p align="left">
   <a href="https://devilovers.github.io/3DPortofolio/" target="_blank">
