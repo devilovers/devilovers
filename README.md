@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nur Islami Sabila
 
-I'm a beginner **Frontend Developer** <img src="https://api.iconify.design/pixelarticons:device-laptop.svg?color=%23ff69b4" alt="Laptop Pixel Pink" width="28" height="28" align="center" /> and an aspiring **UI/UX Designer** <img src="https://api.iconify.design/pixelarticons:paint-bucket.svg?color=%23ff69b4" alt="Palette Pixel Pink" width="28" height="28" align="center" /><br />
+I'm a beginner **Frontend Developer** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop 3D" width="35" height="35" align="center" style="filter: sepia(1) hue-rotate(-15deg) saturate(0.8) brightness(1.2);" /> and an aspiring **UI/UX Designer** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Palette 3D" width="35" height="35" align="center" style="filter: sepia(1) hue-rotate(-15deg) saturate(0.8) brightness(1.2);" /><br />
 I created this GitHub profile to document my learning journey, share my projects, and keep improving every day.<br />
 I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer.<br />
 
@@ -16,6 +16,8 @@ P.S. I **followed** your profile because i genuinely enjoy discovering new ideas
 Thank you for sharing your work with the community. I really appreciate it!<br />
 
 <br />
+
+### 🌐 Connect & View My Work
 
 <p align="left">
   <a href="https://devilovers.github.io/3DPortofolio/" target="_blank">
