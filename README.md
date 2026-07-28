@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nur Islami Sabila
 
-I'm a beginner **Frontend Developer** <img src="https://api.iconify.design/pixelarticons:device-laptop.svg" alt="Laptop Pixel" width="28" height="28" align="center" /> and an aspiring **UI/UX Designer** <img src="https://api.iconify.design/pixelarticons:paint-bucket.svg" alt="Palette Pixel" width="28" height="28" align="center" /><br />
+I'm a beginner **Frontend Developer** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop Pixel" width="30" height="30" align="center" style="image-rendering: pixelated;" /> and an aspiring **UI/UX Designer** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Palette Pixel" width="30" height="30" align="center" style="image-rendering: pixelated;" /><br />
 I created this GitHub profile to document my learning journey, share my projects, and keep improving every day.<br />
 I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer.<br />
 
