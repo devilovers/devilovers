@@ -6,7 +6,7 @@ I created this GitHub profile to document my learning journey, share my projects
 
 I'll be happy to receive any **feedback** or **code reviews** that can help me become a better developer.
 
-⭐️ Feel free to **follow me** — I'd really appreciate your support!
+⭐️ Feel free to **follow me** I'd really appreciate your support!
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/yumiaura/myCat/refs/heads/main/docs/cat.gif" width="320" alt="Cat GIF">
@@ -15,11 +15,11 @@ I'll be happy to receive any **feedback** or **code reviews** that can help me b
 Thank you for visiting my page! 🤍
 
 **P.S.** I followed your profile because I genuinely enjoy discovering new ideas and learning from other developers.
-Thank you for sharing your work with the community — I really appreciate it!
+Thank you for sharing your work with the community. I really appreciate it!
 
 <br>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://devilovers.github.io/3DPortofolio/" target="_blank">
